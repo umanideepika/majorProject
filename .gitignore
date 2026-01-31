@@ -1,0 +1,17 @@
+# Datasets
+dataset/
+fruits-360/
+
+# Models
+*.h5
+*.keras
+*.tflite
+
+# Training artifacts
+checkpoints/
+logs/
+*.ckpt
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
